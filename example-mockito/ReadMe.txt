@@ -63,3 +63,14 @@ https://www.tutorialspoint.com/mockito/mockito_useful_resources.htm
 https://site.mockito.org/
 https://github.com/mockito/mockito/wiki/What%27s-new-in-Mockito-2
 https://www.vogella.com/tutorials/Mockito/article.html
+
+
+Learning new topic
+
+release projects in central maven
+https://www.youtube.com/watch?v=bxP9IuJbcDQ
+https://maven.apache.org/repository/guide-central-repository-upload.html
+https://maven.apache.org/guides/mini/guide-creating-archetypes.html
+https://gradle.org/
+https://guides.gradle.org/building-java-libraries/
+
