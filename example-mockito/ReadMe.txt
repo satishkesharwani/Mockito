@@ -56,5 +56,10 @@ Now – let’s discuss how to use @InjectMocks annotation – to inject mock fi
 In the following example – we use @InjectMocks to inject the mock wordMap into the MyDictionary dic:
 
 
+Useful Links:
 
 https://www.baeldung.com/mockito-annotations
+https://www.tutorialspoint.com/mockito/mockito_useful_resources.htm
+https://site.mockito.org/
+https://github.com/mockito/mockito/wiki/What%27s-new-in-Mockito-2
+https://www.vogella.com/tutorials/Mockito/article.html
